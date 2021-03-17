@@ -24,6 +24,24 @@ Here, I have implemented CNN (Convolution Neural Network) using Keras.
     ```
     python capture.py
     ```
+    
+# Web Modules 
+A web postal for user to levarage the model, provide their feedback or any complaint.
+### User
+1. LogIn / Register
+2. Complaint / Feedback / star-Rating
+3. Detection
+
+### Admin
+1. LogIn
+2. Reply complaint and feedback
+3. Upadate data set
+
+### Tools Used for web development
+1. HTML / CSS / JavaScript
+2. Flask
+3. Jinja 2
+4. Python
 
 
 
