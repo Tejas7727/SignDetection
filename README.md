@@ -42,6 +42,7 @@ A web postal for user to levarage the model, provide their feedback or any compl
 2. Flask
 3. Jinja 2
 4. Python
+5. SQL Server
 
 
 
